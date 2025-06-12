@@ -27,7 +27,7 @@ jobs:
         run: npm run generate
 
       - name: 🏗️ Build immagine Docker
-        run: docker-compose build nuxt-app
+        run: docker compose build nuxt-app
 
       - name: 🚀 Avvia/aggiorna container
-        run: docker-compose up -d nuxt-app
+        run: docker compose up -d nuxt-app
