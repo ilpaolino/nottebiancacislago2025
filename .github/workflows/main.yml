@@ -1,11 +1,30 @@
-name: Hello World Workflow
+name: CI/CD Nuxt Static via Docker Compose
 
 on:
-  push:  # si attiva quando fai push
+  push:
+    branches: [ main ]
 
 jobs:
-  say-hello:
-    runs-on: ubuntu-latest
+  build-and-deploy:
+    # usa il tuo runner self-hosted, con Docker & docker-compose installati
+    runs-on:
+      - self-hosted
+      - linux
+
     steps:
-      - name: Print Hello World
-        run: echo "Hello, World from GitHub Actions!"
+      - name: 📥 Checkout code
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Setup Node.js 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: 🌐 Genera static files
+        run: npm run generate
+
+      - name: 🏗️ Build immagine Docker
+        run: docker-compose build nuxt-app
+
+      - name: 🚀 Avvia/aggiorna container
+        run: docker-compose up -d nuxt-app

@@ -1,0 +1,9 @@
+services:
+  nuxt-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: nottebiancacislago2025:latest
+    ports:
+      - "10080:80"
+    restart: always
