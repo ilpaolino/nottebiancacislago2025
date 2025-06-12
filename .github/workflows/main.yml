@@ -20,6 +20,9 @@ jobs:
         with:
           node-version: '20'
 
+      - name: 📦 Installa dipendenze
+        run: npm i
+
       - name: 🌐 Genera static files
         run: npm run generate
 
