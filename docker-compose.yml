@@ -1,5 +1,6 @@
 services:
   nuxt-app:
+    container_name: nottebiancacislago2025
     build:
       context: .
       dockerfile: Dockerfile
@@ -7,3 +8,9 @@ services:
     ports:
       - "10080:80"
     restart: always
+  networks:
+    - mondocloud-external-network
+
+networks:
+  mondocloud-external-network:
+    external: true
