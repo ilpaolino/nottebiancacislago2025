@@ -1,5 +1,5 @@
 <template>
-  <div class="relative min-h-screen w-full bg-[url('/nextjs-tailwind-event-landing-page/image/event.jpeg')] bg-cover bg-no-repeat">
+  <div class="relative min-h-screen w-full bg-[url('/img/cislago-bg.jpeg')] bg-cover bg-no-repeat">
     <div class="absolute inset-0 bg-gray-900/60"></div>
     <div class="grid min-h-screen px-8">
       <div class="container relative z-10 my-auto mx-auto grid place-items-center text-center">
