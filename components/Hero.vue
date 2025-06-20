@@ -12,7 +12,10 @@
           solo per una notte nel cuore di Cislago.
         </p>
         <div class="flex items-center gap-4">
-          <button class="text-xs uppercase font-bold py-3 px-6 rounded-lg bg-white text-blue-gray-900 shadow-md hover:opacity-90">
+          <button
+            class="text-xs uppercase font-bold py-3 px-6 rounded-lg bg-white text-blue-gray-900 shadow-md hover:opacity-90"
+            @click="scrollToAboutEvent"
+          >
             Scopri di più
           </button>
         </div>
@@ -22,5 +25,10 @@
 </template>
 
 <script setup lang="ts">
-// nessuna logica aggiuntiva
+const scrollToAboutEvent = () => {
+  const aboutEventSection = document.getElementById('about-event');
+  if (aboutEventSection) {
+    aboutEventSection.scrollIntoView({ behavior: 'smooth' });
+  }
+};
 </script>

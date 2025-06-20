@@ -2,12 +2,12 @@
   <footer class="pb-5 p-10 md:pt-10 bg-white">
     <div class="container mx-auto flex flex-col">
       <div class="flex flex-col md:flex-row items-center justify-between">
-        <a href="https://www.material-tailwind.com" target="_blank" class="font-semibold text-gray-900 mb-4 md:mb-0">
+        <RouterLink to="/" class="font-semibold text-gray-900 mb-4 md:mb-0">
           Notte Bianca Cislago 2025
-        </a>
+        </RouterLink>
         <ul class="flex flex-wrap gap-4 mb-4 md:mb-0">
-          <li><a href="#" class="text-gray-700 hover:text-gray-900">Attività</a></li>
-          <li><a href="#" class="text-gray-700 hover:text-gray-900">Eventi</a></li>
+          <li><RouterLink to="/attivita" class="text-gray-700 hover:text-gray-900">Attività</RouterLink></li>
+          <li><RouterLink to="/eventi" class="text-gray-700 hover:text-gray-900">Eventi</RouterLink></li>
         </ul>
       </div>
       <p class="text-center text-gray-700 mt-12">

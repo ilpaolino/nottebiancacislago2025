@@ -1,5 +1,5 @@
 <template>
-  <section class="container mx-auto flex flex-col items-center px-4 py-10">
+  <section class="container mx-auto flex flex-col items-center px-4 py-10" id="about-event">
     <h6 class="text-base font-semibold text-orange-500 mb-2">Vieni a vivere con noi l’inizio dell’estate...</h6>
     <h3 class="text-3xl font-semibold text-blue-gray-900 text-center mb-3">La nostra Notte Bianca</h3>
     <h6 class="text-base font-semibold text-orange-500 text-center mb-8">
