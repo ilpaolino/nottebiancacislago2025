@@ -10,7 +10,7 @@
           <h6 class="font-semibold">{{ location }}</h6>
           <p class="text-sm text-gray-500">{{ time }}</p>
         </div>
-        <a class="ml-auto uppercase text-sm text-blue-600 text-center" href="#">
+        <a class="ml-auto uppercase text-sm text-blue-600 text-center" target="_blank" :href="`https://www.google.com/maps/dir//${coordinates.latitude},${coordinates.longitude}/@${coordinates.latitude},${coordinates.longitude},172m/`">
           APRI<br>MAPPA
         </a>
       </div>
@@ -24,7 +24,13 @@ const props = defineProps({
   title: String,
   description: String,
   location: String,
-  time: String
+  time: String,
+  coordinates: {
+    type: Object as PropType<{
+      latitude: string;
+      longitude: string;
+    }>
+  }
 });
 
 const image = toRef(props, 'image');
@@ -32,4 +38,5 @@ const title = toRef(props, 'title');
 const description = toRef(props, 'description');
 const location = toRef(props, 'location');
 const time = toRef(props, 'time');
+const coordinates = toRef(props, 'coordinates');
 </script>

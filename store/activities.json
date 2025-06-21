@@ -9,7 +9,11 @@
       "logo_image": "anna-nardi",
       "event_description": "Sfilata di moda notte bianca",
       "isFood": false,
-      "menu": null
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.659264",
+        "longitude": "8.969451"
+      }
     },
     {
       "id": "la-contea-del-gioco",
@@ -21,7 +25,11 @@
       "logo_image": "contea-gioco",
       "event_description": "Laboratorio Creativo \"Decora il tuo pesciolino\" per bambini dai 5 anni ore 19:00 e 20:00 (durata 1 ora).  Costo € 5",
       "isFood": false,
-      "menu": null
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.658499",
+        "longitude": "8.971900"
+      }
     },
     {
       "id": "peps-lounge",
@@ -33,7 +41,11 @@
       "logo_image": "peps",
       "event_description": "Cocktail bar, stand gastronomico, dj set e live",
       "isFood": true,
-      "menu": "https://drive.google.com/open?id=1SQ5BrkqnFZjJmftf3r28kxNP_SM2cvT0"
+      "menu": "https://drive.google.com/open?id=1SQ5BrkqnFZjJmftf3r28kxNP_SM2cvT0",
+      "coordinates": {
+        "latitude": "45.659368",
+        "longitude": "8.969628"
+      }
     },
     {
       "id": "panineria-night-and-day",
@@ -45,7 +57,11 @@
       "logo_image": "lapis",
       "event_description": "Streetfood",
       "isFood": true,
-      "menu": "https://drive.google.com/open?id=1rd8QPEr7MvBCofbg-1mLcBH4aSvV-_ER"
+      "menu": "https://drive.google.com/open?id=1rd8QPEr7MvBCofbg-1mLcBH4aSvV-_ER",
+      "coordinates": {
+        "latitude": "45.659343",
+        "longitude": "8.971448"
+      }
     },
     {
       "id": "cafe-elite",
@@ -57,7 +73,11 @@
       "logo_image": "cafe-elite",
       "event_description": "Carne argentina e paella ",
       "isFood": true,
-      "menu": null
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.660091",
+        "longitude": "8.970518"
+      }
     },
     {
       "id": "bodeguero-cantina-con-cucina",
@@ -69,7 +89,11 @@
       "logo_image": "bordeguero",
       "event_description": "Street Food con specialità dal mondo",
       "isFood": true,
-      "menu": "https://drive.google.com/open?id=1oXLmdjwJSqsngzFVWCjZuWjO1psXhOmq"
+      "menu": "https://drive.google.com/open?id=1oXLmdjwJSqsngzFVWCjZuWjO1psXhOmq",
+      "coordinates": {
+        "latitude": "45.66045",
+        "longitude": "8.97332"
+      }
     },
     {
       "id": "floris",
@@ -81,19 +105,27 @@
       "logo_image": "floris",
       "event_description": "Durante la sfilata di Cinzia curvy couture e Dolci emozioni di Emanuela Minorini vi sarà un momento dedicato al matrimonio, dove gli accessori floreali faranno da cornice ad abiti da sogno realizzati da Cristina spose. ",
       "isFood": false,
-      "menu": null
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.660017",
+        "longitude": "8.972635"
+      }
     },
     {
       "id": "caffe-emilio",
       "activity_name": "Caffè Emilio",
       "address": "Viale IV Novembre, 172 - Cislago",
-      "phone": "296408718",
+      "phone": "0296408718",
       "website": null,
       "email": "baremiliosas@gmail.com",
       "logo_image": "cafe-emilio",
       "event_description": null,
       "isFood": true,
-      "menu": null
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.66022",
+        "longitude": "8.97329"
+      }
     },
     {
       "id": "ohana-cafe",
@@ -105,7 +137,11 @@
       "logo_image": "ohana-cafe",
       "event_description": "Siamo pazzi? Si! Quest’anno cambiamo location…. Ci trovate alla base del viale IV Novembre con i nostri Drink e i nostri panini speciali!\nE dalle 22:00, rivivi le emozioni delle sigle dei più famosi cartoni animati in chiave rock con i Kartoonia.",
       "isFood": true,
-      "menu": "https://drive.google.com/open?id=1tQTG0Xc6h5tFu3W7KaTB1WZ4ixJXJjNX"
+      "menu": "https://drive.google.com/open?id=1tQTG0Xc6h5tFu3W7KaTB1WZ4ixJXJjNX",
+      "coordinates": {
+        "latitude": "45.659155",
+        "longitude": "8.971556"
+      }
     },
     {
       "id": "klotz-abbigliamento",
@@ -117,7 +153,11 @@
       "logo_image": "klotz",
       "event_description": null,
       "isFood": false,
-      "menu": null
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.65988",
+        "longitude": "8.97045"
+      }
     },
     {
       "id": "cinzia-curvy-couture",
@@ -129,7 +169,11 @@
       "logo_image": "cinzia-curvy",
       "event_description": "Sfilata ore 22,30 viale Iv novembre",
       "isFood": false,
-      "menu": null
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.6595861",
+        "longitude": "8.972395"
+      }
     },
     {
       "id": "immobiliare-frontini",
@@ -141,7 +185,11 @@
       "logo_image": "immobiliare-frontini",
       "event_description": "",
       "isFood": false,
-      "menu": null
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.659672",
+        "longitude": "8.972501"
+      }
     },
     {
       "id": "mondobrick",
@@ -153,6 +201,10 @@
       "logo_image": "mondobrick",
       "event_description": "",
       "isFood": false,
-      "menu": null
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.6598611",
+        "longitude": "8.9727778"
+      }
     }
   ]

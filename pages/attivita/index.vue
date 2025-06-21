@@ -12,6 +12,7 @@
                   :description="activity.event_description"
                   :location="activity.address"
                   :time="activity.phone"
+                  :coordinates="activity.coordinates"
                 />
               </div>
             </div>
