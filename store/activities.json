@@ -6,7 +6,7 @@
       "phone": "3497507957",
       "website": "https://www.annanardi.com",
       "email": "anna-nardi@virgilio.it",
-      "logo_image": "https://drive.google.com/open?id=14sOjYTqJXGjqeEHhA8CtJ2yhsTu92MER",
+      "logo_image": "anna-nardi",
       "event_description": "Sfilata di moda notte bianca",
       "isFood": false,
       "menu": null
@@ -18,7 +18,7 @@
       "phone": "026125080",
       "website": "https://www.laconteadelgioco.it",
       "email": "info@laconteadelgioco.it",
-      "logo_image": "https://drive.google.com/open?id=1BxwMO-JnUBw9naftSopLe72DxIBvEH6_",
+      "logo_image": "contea-gioco",
       "event_description": "Laboratorio Creativo \"Decora il tuo pesciolino\" per bambini dai 5 anni ore 19:00 e 20:00 (durata 1 ora).  Costo € 5",
       "isFood": false,
       "menu": null
@@ -30,7 +30,7 @@
       "phone": "3402183148",
       "website": "https://www.instagram.com/peps_lounge",
       "email": "contentaalessandro@gmail.com",
-      "logo_image": "https://drive.google.com/open?id=1sblHqxgZyDkBq_7cAoJrmFZoUKvJGBle",
+      "logo_image": "peps",
       "event_description": "Cocktail bar, stand gastronomico, dj set e live",
       "isFood": true,
       "menu": "https://drive.google.com/open?id=1SQ5BrkqnFZjJmftf3r28kxNP_SM2cvT0"
@@ -42,8 +42,8 @@
       "phone": "3773606376",
       "website": null,
       "email": "lapisvincenzo31@gmail.com",
-      "logo_image": "https://drive.google.com/open?id=1dzuPO5Us_JpurkErq6XXA6vqFITL8BnU",
-      "event_description": "Streetfood ",
+      "logo_image": "lapis",
+      "event_description": "Streetfood",
       "isFood": true,
       "menu": "https://drive.google.com/open?id=1rd8QPEr7MvBCofbg-1mLcBH4aSvV-_ER"
     },
@@ -54,7 +54,7 @@
       "phone": "3481938485",
       "website": null,
       "email": null,
-      "logo_image": "https://drive.google.com/open?id=1TjuvIMVAjpW-w7G2BGB1haD06sa2wgy6",
+      "logo_image": "cafe-elite",
       "event_description": "Carne argentina e paella ",
       "isFood": true,
       "menu": null
@@ -66,7 +66,7 @@
       "phone": "0227015366",
       "website": "https://www.bodeguero.it",
       "email": "bodeguero.va@gmail.com",
-      "logo_image": "https://drive.google.com/open?id=1Ount6-Z8tcn5GiCSOHWmNyEF8KSNfjSs",
+      "logo_image": "bordeguero",
       "event_description": "Street Food con specialità dal mondo",
       "isFood": true,
       "menu": "https://drive.google.com/open?id=1oXLmdjwJSqsngzFVWCjZuWjO1psXhOmq"
@@ -78,7 +78,7 @@
       "phone": "3478374208",
       "website": "https://www.instagram.com/floris_di_giardinomania",
       "email": "giardinomania@alice.it",
-      "logo_image": "https://drive.google.com/open?id=1szlV9ZfC9TdmXuJSmvQPop2ARd5BXDHB",
+      "logo_image": "floris",
       "event_description": "Durante la sfilata di Cinzia curvy couture e Dolci emozioni di Emanuela Minorini vi sarà un momento dedicato al matrimonio, dove gli accessori floreali faranno da cornice ad abiti da sogno realizzati da Cristina spose. ",
       "isFood": false,
       "menu": null
@@ -90,7 +90,7 @@
       "phone": "296408718",
       "website": null,
       "email": "baremiliosas@gmail.com",
-      "logo_image": "https://drive.google.com/open?id=1bP9WrafrI2XyXDARdbWy0C8qovZU0Zyg",
+      "logo_image": "cafe-emilio",
       "event_description": null,
       "isFood": true,
       "menu": null
@@ -102,7 +102,7 @@
       "phone": "3343782155",
       "website": "https://www.facebook.com/share/16f6jGqkdy/?mibextid=wwXIfr",
       "email": "info@ohanacafe.it",
-      "logo_image": "https://drive.google.com/open?id=1YoP7IH1QILGiG-03x5tUJZDVtk1Its9W",
+      "logo_image": "ohana-cafe",
       "event_description": "Siamo pazzi? Si! Quest’anno cambiamo location…. Ci trovate alla base del viale IV Novembre con i nostri Drink e i nostri panini speciali!\nE dalle 22:00, rivivi le emozioni delle sigle dei più famosi cartoni animati in chiave rock con i Kartoonia.",
       "isFood": true,
       "menu": "https://drive.google.com/open?id=1tQTG0Xc6h5tFu3W7KaTB1WZ4ixJXJjNX"
@@ -114,7 +114,7 @@
       "phone": "33311161048",
       "website": "https://klotzabbigliamento.shop",
       "email": "klotzabbigliamento@gmail.com",
-      "logo_image": "https://drive.google.com/open?id=1Cwbm_IZABkS3_tzonAGuZplks9x6B-SQ",
+      "logo_image": "klotz",
       "event_description": null,
       "isFood": false,
       "menu": null
@@ -126,8 +126,32 @@
       "phone": "3442701963",
       "website": null,
       "email": "cinziafranco43@gmail.com",
-      "logo_image": "https://drive.google.com/open?id=1lvng8hLXyfBM2m9JsJ2ySuHnNl4V6L72",
+      "logo_image": "cinzia-curvy",
       "event_description": "Sfilata ore 22,30 viale Iv novembre",
+      "isFood": false,
+      "menu": null
+    },
+    {
+      "id": "immobiliare-frontini",
+      "activity_name": "Immobiliare Frontini",
+      "address": "Viale IV Novembre, 94 - Cislago",
+      "phone": "0296382994",
+      "website": null,
+      "email": "info@immobiliarefrontini.com",
+      "logo_image": "immobiliare-frontini",
+      "event_description": "",
+      "isFood": false,
+      "menu": null
+    },
+    {
+      "id": "mondobrick",
+      "activity_name": "Mondobrick",
+      "address": "Viale IV Novembre, 114 - Cislago",
+      "phone": "",
+      "website": null,
+      "email": "info@mondobrick.it",
+      "logo_image": "mondobrick",
+      "event_description": "",
       "isFood": false,
       "menu": null
     }

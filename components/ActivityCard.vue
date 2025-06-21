@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-white rounded-2xl overflow-hidden shadow-md">
-    <img :src="image" :alt="title" class="w-full h-48 object-cover">
+  <div class="bg-gray-200 rounded-2xl overflow-hidden shadow-md">
+    <img :src="`/img/activities/${image}.png`" :alt="`Logo ${title}`" class="w-full h-48 object-contain bg-white">
     <div class="p-6">
       <h3 class="text-2xl font-semibold mb-2">{{ title }}</h3>
       <p class="text-gray-500 mb-4">{{ description }}</p>
@@ -10,7 +10,9 @@
           <h6 class="font-semibold">{{ location }}</h6>
           <p class="text-sm text-gray-500">{{ time }}</p>
         </div>
-        <a class="ml-auto uppercase text-sm text-blue-600 text-center" href="#"> APRI<br>MAPPA </a>
+        <a class="ml-auto uppercase text-sm text-blue-600 text-center" href="#">
+          APRI<br>MAPPA
+        </a>
       </div>
     </div>
   </div>

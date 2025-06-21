@@ -13,7 +13,7 @@
         </p>
         <div class="flex items-center gap-4">
           <button
-            class="text-xs uppercase font-bold py-3 px-6 rounded-lg bg-white text-blue-gray-900 shadow-md hover:opacity-90"
+            class="text-xs uppercase font-bold py-3 px-6 rounded-lg bg-white text-blue-gray-900 shadow-md hover:opacity-90 cursor-pointer"
             @click="scrollToAboutEvent"
           >
             Scopri di più
