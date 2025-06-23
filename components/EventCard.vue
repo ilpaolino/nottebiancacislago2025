@@ -10,7 +10,6 @@
           <h6 class="font-semibold">{{ location }}</h6>
           <p class="text-sm text-gray-500">{{ time }}</p>
         </div>
-        <a class="ml-auto uppercase text-sm text-blue-600 text-center" href="#"> APRI<br>MAPPA </a>
       </div>
     </div>
   </div>

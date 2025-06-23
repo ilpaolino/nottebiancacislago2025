@@ -1,0 +1,82 @@
+[
+  {
+    "id": "luna-park",
+    "title": "Giostre",
+    "description": "Salta a bordo delle nostre giostre: un divertimento assicurato per tutta la famiglia, dalla ruota panoramica agli autoscontri.",
+    "location": "Via Cavour - Piazza E. Toti",
+    "time": "18:00 - 01:00",
+    "image": "/img/events/luna-park.png"
+  },
+  {
+    "id": "dj-set-cri",
+    "title": "DJ Set & Musica Live",
+    "description": "Una serata di musica coinvolgente con Mantegazza e la CRI di Saronno: ritmo e divertimento assicurati.",
+    "location": "Piazza E. Toti",
+    "time": "21:30 - 23:30",
+    "image": "/img/events/concerto.png"
+  },
+  {
+    "id": "finale-luminoso",
+    "title": "Finale Luminoso",
+    "description": "Spettacolo conclusivo con coreografie luminose a cura delle Majorette di Gerenzano.",
+    "location": "Piazza E. Toti",
+    "time": "23:30 - 00:00",
+    "image": "/img/events/finale.png"
+  },
+  {
+    "id": "danza-ventre-1",
+    "title": "Danza del Ventre",
+    "description": "Eleganza e tradizione in scena con le ballerine di danza del ventre.",
+    "location": "Viale IV Novembre",
+    "time": "20:00 - 20:30",
+    "image": "/img/events/danza.png"
+  },
+  {
+    "id": "danzarte",
+    "title": "Esibizione Danzarte",
+    "description": "Performance dinamiche e colorate a cura della scuola Danzarte.",
+    "location": "Viale IV Novembre",
+    "time": "20:30 - 21:15",
+    "image": "/img/events/danza2.png"
+  },
+  {
+    "id": "majorette-viale",
+    "title": "Majorette Gerenzano",
+    "description": "Le Majorette di Gerenzano portano in scena la loro energia e sincronia.",
+    "location": "Viale IV Novembre",
+    "time": "21:15 - 21:35",
+    "image": "/img/events/majorette.png"
+  },
+  {
+    "id": "danza-ventre-2",
+    "title": "Danza del Ventre (seconda esibizione)",
+    "description": "Un secondo momento dedicato alla danza del ventre per incantare il pubblico.",
+    "location": "Viale IV Novembre",
+    "time": "21:35 - 22:30",
+    "image": "/img/events/danza.png"
+  },
+  {
+    "id": "sfilata-curvy",
+    "title": "Sfilata di Moda Curvy",
+    "description": "Moda per tutte le forme con Conzia Curvy Couture e Dolci Emozioni.",
+    "location": "Viale IV Novembre",
+    "time": "22:30 - 23:15",
+    "image": "/img/events/sfilata.png"
+  },
+  {
+    "id": "majorette-cavour",
+    "title": "Majorette in Via Cavour",
+    "description": "Breve spettacolo delle Majorette di Gerenzano per intrattenere e sorprendere.",
+    "location": "Via Cavour",
+    "time": "20:30 - 20:50",
+    "image": "/img/events/majorette.png"
+  },
+  {
+    "id": "sfilata-anna-nardi",
+    "title": "Sfilata Anna Nardi",
+    "description": "Collezioni di stile e classe in passerella con Anna Nardi Abbigliamento.",
+    "location": "Via Cavour",
+    "time": "21:15 - 21:45",
+    "image": "/img/events/sfilata2.png"
+  }
+]
