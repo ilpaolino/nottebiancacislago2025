@@ -18,10 +18,13 @@ export default function useActivities() {
     return allActivities.value.find(activity => activity.id === id) || null;
   };
 
+  const getAllUnsorted = computed(() => [...allActivities.value].sort(() => Math.random() - 0.5));
+
   return {
     getAll,
     getIsFood,
     getWithMenu,
     getById,
+    getAllUnsorted,
   };
 }

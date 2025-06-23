@@ -21,7 +21,7 @@
     "description": "Spettacolo conclusivo con coreografie luminose a cura delle Majorette di Gerenzano.",
     "location": "Piazza E. Toti",
     "time": "23:30 - 00:00",
-    "image": "/img/events/finale.png"
+    "image": "/img/events/majorette2.png"
   },
   {
     "id": "danza-ventre-1",
@@ -29,7 +29,7 @@
     "description": "Eleganza e tradizione in scena con le ballerine di danza del ventre.",
     "location": "Viale IV Novembre",
     "time": "20:00 - 20:30",
-    "image": "/img/events/danza.png"
+    "image": "/img/events/ventre.png"
   },
   {
     "id": "danzarte",
@@ -37,7 +37,7 @@
     "description": "Performance dinamiche e colorate a cura della scuola Danzarte.",
     "location": "Viale IV Novembre",
     "time": "20:30 - 21:15",
-    "image": "/img/events/danza2.png"
+    "image": "/img/events/danza.png"
   },
   {
     "id": "majorette-viale",
@@ -56,9 +56,9 @@
     "image": "/img/events/danza.png"
   },
   {
-    "id": "sfilata-curvy",
-    "title": "Sfilata di Moda Curvy",
-    "description": "Moda per tutte le forme con Conzia Curvy Couture e Dolci Emozioni.",
+    "id": "sfilata-moda",
+    "title": "Sfilata di Moda",
+    "description": "Moda per tutte le forme con Cinzia Curvy Couture e Dolci Emozioni.",
     "location": "Viale IV Novembre",
     "time": "22:30 - 23:15",
     "image": "/img/events/sfilata.png"
@@ -73,7 +73,7 @@
   },
   {
     "id": "sfilata-anna-nardi",
-    "title": "Sfilata Anna Nardi",
+    "title": "Sfilata Moda by Anna Nardi",
     "description": "Collezioni di stile e classe in passerella con Anna Nardi Abbigliamento.",
     "location": "Via Cavour",
     "time": "21:15 - 21:45",

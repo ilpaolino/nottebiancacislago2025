@@ -20,5 +20,8 @@
 
           <script setup lang="ts">
           import EventCard from '~/components/EventCard.vue';
-          import events from '~/store/events.json';
+          import { useEvents } from '~/composables/useEvents';
+
+          const { allEvents } = useEvents();
+          const events = computed(() => allEvents.value);
           </script>
