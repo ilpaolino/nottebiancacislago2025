@@ -3,7 +3,12 @@
     <img :src="`/img/activities/${image}.png`" :alt="`Logo ${title}`" class="w-full h-48 object-contain bg-white">
     <div class="p-6">
       <h3 class="text-2xl font-semibold mb-2">{{ title }}</h3>
-      <p class="text-gray-500 mb-4">{{ description }}</p>
+      <p class="text-gray-500 mb-4" v-if="!menu">{{ description }}</p>
+      <p class="text-gray-500 mb-4" v-if="menu">
+        <a :href="`/img/activities/${menu}`" target="_blank" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold text-sm rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
+          Scopri il menù
+        </a>
+      </p>
       <div class="flex items-center gap-4">
         <img src="/img/icons/tour-pin-tear.svg" alt="location" class="w-12 h-12">
         <div>
@@ -25,6 +30,7 @@ const props = defineProps({
   description: String,
   location: String,
   time: String,
+  menu: String,
   coordinates: {
     type: Object as PropType<{
       latitude: string;
@@ -39,4 +45,5 @@ const description = toRef(props, 'description');
 const location = toRef(props, 'location');
 const time = toRef(props, 'time');
 const coordinates = toRef(props, 'coordinates');
+const menu = toRef(props, 'menu');
 </script>

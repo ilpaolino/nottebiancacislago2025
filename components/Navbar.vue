@@ -3,7 +3,9 @@
     :class="['block py-4 w-full max-w-full rounded-none px-4 bg-transparent text-white fixed top-0 z-50 border-0 transition-transform duration-300', { '-translate-y-full': isHidden }]"
   >
     <div class="container mx-auto flex items-center justify-between">
-      <p class="font-bold text-lg">Notte Bianca Cislago 2025</p>
+      <p class="font-bold text-lg">
+        <NuxtLink to="/">Notte Bianca Cislago 2025</NuxtLink>
+      </p>
       <ul class="ml-10 hidden lg:flex items-center gap-6 text-white">
         <li>
           <NuxtLink to="/attivita" class="flex items-center gap-2 font-medium">

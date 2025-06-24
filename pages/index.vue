@@ -2,7 +2,7 @@
   <Hero />
   <!--SponsoredBy /-->
   <AboutEvent />
-  <EventContent />
+  <!--EventContent /-->
 </template>
 
 <script setup lang="ts">

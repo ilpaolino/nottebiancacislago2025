@@ -21,7 +21,7 @@
             Musica live, performance teatrali e show itineranti animeranno le vie del centro:<br />
             scegli la tua zona preferita e lasciati sorprendere.
           </p>
-          <button class="text-xs uppercase font-bold py-2 px-4 rounded-lg bg-white text-blue-gray-900 shadow hover:opacity-90 cursor-pointer">
+          <button class="text-xs uppercase font-bold py-2 px-4 rounded-lg bg-white text-blue-gray-900 shadow hover:opacity-90 cursor-pointer" @click="$router.push('/eventi')">
             scopri tutti gli eventi
           </button>
         </div>
@@ -34,7 +34,7 @@
             I negozi del centro rimarranno aperti fino a tardi con offerte esclusive e vetrine animate:<br />
             porta a casa un ricordo indimenticabile.
           </p>
-          <button class="text-xs uppercase font-bold py-2 px-4 rounded-lg bg-white text-blue-gray-900 shadow hover:opacity-90 cursor-pointer">
+          <button class="text-xs uppercase font-bold py-2 px-4 rounded-lg bg-white text-blue-gray-900 shadow hover:opacity-90 cursor-pointer" @click="$router.push('/attivita')">
             scopri tutte le attività
           </button>
         </div>
@@ -47,7 +47,7 @@
             Delizia il palato dai nostri bar e locali, food-truck con degustazioni di vini, birre patatine e salamelle:
             un percorso gustativo per tutti i gusti.
           </p>
-          <button class="text-xs uppercase font-bold py-2 px-4 rounded-lg bg-white text-blue-gray-900 shadow hover:opacity-90 cursor-pointer">
+          <button class="text-xs uppercase font-bold py-2 px-4 rounded-lg bg-white text-blue-gray-900 shadow hover:opacity-90 cursor-pointer" @click="$router.push('/attivita/food')">
             scopri dove mangiare e bere
           </button>
         </div>

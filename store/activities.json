@@ -41,7 +41,7 @@
       "logo_image": "peps",
       "event_description": "Cocktail bar, stand gastronomico, dj set e live",
       "isFood": true,
-      "menu": "https://drive.google.com/open?id=1SQ5BrkqnFZjJmftf3r28kxNP_SM2cvT0",
+      "menu": "peps.pdf",
       "coordinates": {
         "latitude": "45.659368",
         "longitude": "8.969628"
@@ -50,14 +50,14 @@
     {
       "id": "panineria-night-and-day",
       "activity_name": "Panineria night and day",
-      "address": "Via Filzi, 41 - Cislago",
+      "address": "Piazza Castelbarco - Cislago",
       "phone": "3773606376",
       "website": null,
       "email": "lapisvincenzo31@gmail.com",
       "logo_image": "lapis",
       "event_description": "Streetfood",
       "isFood": true,
-      "menu": "https://drive.google.com/open?id=1rd8QPEr7MvBCofbg-1mLcBH4aSvV-_ER",
+      "menu": "lapis.pdf",
       "coordinates": {
         "latitude": "45.659343",
         "longitude": "8.971448"
@@ -71,7 +71,7 @@
       "website": null,
       "email": null,
       "logo_image": "cafe-elite",
-      "event_description": "Carne argentina e paella ",
+      "event_description": "Carne argentina e paella",
       "isFood": true,
       "menu": null,
       "coordinates": {
@@ -89,7 +89,7 @@
       "logo_image": "bordeguero",
       "event_description": "Street Food con specialità dal mondo",
       "isFood": true,
-      "menu": "https://drive.google.com/open?id=1oXLmdjwJSqsngzFVWCjZuWjO1psXhOmq",
+      "menu": "bordeguero.pdf",
       "coordinates": {
         "latitude": "45.66045",
         "longitude": "8.97332"
@@ -130,14 +130,14 @@
     {
       "id": "ohana-cafe",
       "activity_name": "OHANA Cafè",
-      "address": "Piazza Trieste, 180 - Cislago",
+      "address": "Piazza Castelbarco - Cislago",
       "phone": "3343782155",
       "website": "https://www.facebook.com/share/16f6jGqkdy/?mibextid=wwXIfr",
       "email": "info@ohanacafe.it",
       "logo_image": "ohana-cafe",
       "event_description": "Siamo pazzi? Si! Quest’anno cambiamo location…. Ci trovate alla base del viale IV Novembre con i nostri Drink e i nostri panini speciali!\nE dalle 22:00, rivivi le emozioni delle sigle dei più famosi cartoni animati in chiave rock con i Kartoonia.",
       "isFood": true,
-      "menu": "https://drive.google.com/open?id=1tQTG0Xc6h5tFu3W7KaTB1WZ4ixJXJjNX",
+      "menu": "ohana.pdf",
       "coordinates": {
         "latitude": "45.659155",
         "longitude": "8.971556"
@@ -145,7 +145,7 @@
     },
     {
       "id": "klotz-abbigliamento",
-      "activity_name": "KlotZ abbigliamento ",
+      "activity_name": "KlotZ abbigliamento",
       "address": "Via Cavour, 39 - Cislago",
       "phone": "33311161048",
       "website": "https://klotzabbigliamento.shop",
@@ -161,7 +161,7 @@
     },
     {
       "id": "cinzia-curvy-couture",
-      "activity_name": "Cinzia curvy couture",
+      "activity_name": "Cinzia Curvy Couture",
       "address": "Viale IV Novembre, 94 - Cislago",
       "phone": "3442701963",
       "website": null,
