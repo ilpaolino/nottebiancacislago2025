@@ -4,8 +4,8 @@
     <div class="p-6">
       <h3 class="text-2xl font-semibold mb-2">{{ title }}</h3>
       <p class="text-gray-500 mb-4" v-if="!menu">{{ description }}</p>
-      <p class="text-gray-500 mb-4" v-if="menu">
-        <a :href="`/img/activities/${menu}`" target="_blank" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold text-sm rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
+      <p class="text-gray-500 mb-4 text-center" v-if="menu">
+        <a :href="`/img/activities/menu/${menu}`" target="_blank" class="inline-block px-15 py-3 bg-gray-800 text-white font-semibold text-sm rounded-xl hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-600 focus:ring-offset-2 mx-auto text-center">
           Scopri il menù
         </a>
       </p>

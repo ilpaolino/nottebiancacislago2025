@@ -7,7 +7,7 @@ export default function useActivities() {
   const getAll = computed(() => allActivities.value);
 
   const getIsFood = computed(() =>
-    allActivities.value.filter(activity => activity.isFood)
+    allActivities.value.filter(activity => activity.isFood).sort(() => Math.random() - 0.5)
   );
 
   const getWithMenu = computed(() =>
