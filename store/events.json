@@ -93,7 +93,7 @@
     "description": "Vieni a a ballare con noi. Scatenati sotto le stelle con musica live e DJ set travolgente!",
     "location": "Piazza E. Toti",
     "time": "21:30 - 23:30",
-    "image": "/img/events/concerto.png"
+    "image": "/img/events/djset.png"
   },
   {
     "id": "rock-cartoon",
@@ -101,6 +101,14 @@
     "description": "Un tuffo nel passato con la Nostra Rock Band Cartoons. Le sigle dei tuoi cartoni preferiti come non le hai mai sentite: live e rock!",
     "location": "Piazza Castelbarco",
     "time": "21:30 - 23:30",
-    "image": "/img/events/concerto.png"
+    "image": "/img/events/rockband.png"
+  },
+  {
+    "id": "mondobrick-lego",
+    "title": "LEGO da MondoBrick",
+    "description": "Vieni a trovarci in uno spazio pieno di mattoncini Lego dove potrai dare vita a tutto ciò che immagini! Un'esperienza creativa per grandi e piccini.",
+    "location": "Viale IV Novembre",
+    "time": "20:00 - 23:30",
+    "image": "/img/events/lego.png"
   }
 ]
