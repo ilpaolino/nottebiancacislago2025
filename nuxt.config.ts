@@ -10,4 +10,15 @@ export default defineNuxtConfig({
       tailwindcss(),
     ],
   },
+  app: {
+    head: {
+      htmlAttrs: {
+        lang: 'it',
+      },
+      title: 'Notte Bianca Cisalgo 2025',
+      charset: 'utf-8',
+      meta: [],
+      link: [],
+    }
+  },
 })

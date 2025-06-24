@@ -119,7 +119,7 @@
       "website": null,
       "email": "baremiliosas@gmail.com",
       "logo_image": "cafe-emilio",
-      "event_description": null,
+      "event_description": "Vi aspettiamo con: Fritto misto, Lasagna di Pesce, Panino con salamella, Panino con hamburger, Panino con würstel, Patatine fritte. Cornetti caldi a tarda notte!",
       "isFood": true,
       "menu": null,
       "coordinates": {
@@ -205,6 +205,22 @@
       "coordinates": {
         "latitude": "45.6598611",
         "longitude": "8.9727778"
+      }
+    },
+    {
+      "id": "panificio-marcolin",
+      "activity_name": "Panificio Marcolin",
+      "address": " - Cislago",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "logo_image": "marcolin",
+      "event_description": "partecipiamo con vendita di pizze e focacce al trancio, panini imbottiti con salumi e somministrazione di bevande",
+      "isFood": true,
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.659264",
+        "longitude": "8.969451"
       }
     }
   ]

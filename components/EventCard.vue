@@ -7,7 +7,7 @@
       <div class="flex items-center gap-4">
         <img src="/img/icons/tour-pin-tear.svg" alt="location" class="w-12 h-12">
         <div>
-          <h6 class="font-semibold">{{ location }}</h6>
+          <span class="font-semibold">{{ location }}</span>
           <p class="text-sm text-gray-500">{{ time }}</p>
         </div>
       </div>

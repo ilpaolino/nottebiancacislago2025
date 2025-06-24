@@ -12,7 +12,7 @@
       </div>
       <p class="text-center text-gray-700 mt-12">
         © 2025 Notte Bianca Cislago by
-        <a href="https://www.mondoinformatico.com" target="_blank" class="text-blue-500 hover:underline">
+        <a href="https://www.mondoinformatico.com" target="_blank" class="text-blue-700 hover:underline">
           Mondo Informatico
         </a>.
       </p>

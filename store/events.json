@@ -78,5 +78,29 @@
     "location": "Via Cavour",
     "time": "21:15 - 21:45",
     "image": "/img/events/sfilata2.png"
+  },
+  {
+    "id": "magia-bar-emilio",
+    "title": "Spettacolo di Magia da Bar Emilio",
+    "description": "Ridi, stupisciti e sogna con la magia comica e i palloncini del Cappellaio Matto!",
+    "location": "Viale IV Novembre",
+    "time": "20:00 - 21:00",
+    "image": "/img/events/magia.png"
+  },
+  {
+    "id": "dj-set-peps",
+    "title": "DJ Set & Musica Live al PEPS",
+    "description": "Vieni a a ballare con noi. Scatenati sotto le stelle con musica live e DJ set travolgente!",
+    "location": "Piazza E. Toti",
+    "time": "21:30 - 23:30",
+    "image": "/img/events/concerto.png"
+  },
+  {
+    "id": "rock-cartoon",
+    "title": "Rock Band Cartoons all'Ohana",
+    "description": "Un tuffo nel passato con la Nostra Rock Band Cartoons. Le sigle dei tuoi cartoni preferiti come non le hai mai sentite: live e rock!",
+    "location": "Piazza Castelbarco",
+    "time": "21:30 - 23:30",
+    "image": "/img/events/concerto.png"
   }
 ]
