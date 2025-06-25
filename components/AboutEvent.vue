@@ -1,7 +1,7 @@
 <template>
   <section class="container mx-auto flex flex-col items-center px-4 py-10" id="about-event">
     <span class="text-base font-semibold text-orange-700 mb-2">Vieni a vivere con noi l’inizio dell’estate...</span>
-    <h3 class="text-3xl font-semibold text-blue-gray-900 text-center mb-3">La nostra Notte Bianca</h3>
+    <strong class="text-3xl font-semibold text-blue-gray-900 text-center mb-3">La nostra Notte Bianca</strong>
     <span class="text-base font-semibold text-orange-700 text-center mb-8">
       ...fra luci, colori e tanta voglia di divertirsi!
     </span>
@@ -16,7 +16,7 @@
       <div class="bg-white rounded-xl overflow-hidden shadow-md">
         <div class="h-[453px] p-5 bg-gray-900 flex flex-col justify-center items-center text-center">
           <span class="text-base font-semibold text-white mb-4">Eventi</span>
-          <h4 class="text-2xl font-semibold text-white mb-2">Spettacoli per tutti!</h4>
+          <strong class="text-2xl font-semibold text-white mb-2">Spettacoli per tutti!</strong>
           <p class="text-white mb-10 lg:w-8/12">
             Musica live, performance teatrali e show itineranti animeranno le vie del centro:<br />
             scegli la tua zona preferita e lasciati sorprendere.
@@ -29,7 +29,7 @@
       <div class="bg-white rounded-xl overflow-hidden shadow-md">
         <div class="h-[453px] p-5 bg-gray-900 flex flex-col justify-center items-center text-center">
           <span class="text-base font-semibold text-white mb-4">Acquisti</span>
-          <h4 class="text-2xl font-semibold text-white mb-2">Shopping by Night!</h4>
+          <strong class="text-2xl font-semibold text-white mb-2">Shopping by Night!</strong>
           <p class="text-white mb-10 lg:w-8/12">
             I negozi del centro rimarranno aperti fino a tardi con offerte esclusive e vetrine animate:<br />
             porta a casa un ricordo indimenticabile.
@@ -42,7 +42,7 @@
       <div class="md:col-span-2 bg-white rounded-xl overflow-hidden shadow-md">
         <div class="h-[453px] p-5 bg-gray-900 flex flex-col justify-center items-center text-center">
           <span class="text-base font-semibold text-white mb-4">Food & Beverage</span>
-          <h4 class="text-2xl font-semibold text-white mb-2">Sapori sotto le stelle!</h4>
+          <strong class="text-2xl font-semibold text-white mb-2">Sapori sotto le stelle!</strong>
           <p class="text-white mb-10 lg:w-8/12">
             Delizia il palato dai nostri bar e locali, food-truck con degustazioni di vini, birre patatine e salamelle:
             un percorso gustativo per tutti i gusti.
