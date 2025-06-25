@@ -1,8 +1,8 @@
 <template>
-  <div class="relative min-h-screen w-full bg-[url('/img/cislago-bg.jpeg')] bg-cover bg-no-repeat">
+  <section class="relative min-h-screen w-full bg-[url('/img/cislago-bg.jpeg')] bg-cover bg-no-repeat">
     <div class="absolute inset-0 bg-gray-900/60"></div>
     <div class="grid min-h-screen px-8">
-      <div class="container relative z-10 my-auto mx-auto grid place-items-center text-center">
+      <div class="container relative z-10 my-auto mx-auto grid place-items-center text-center" role="region">
         <span class="text-3xl font-semibold text-white mb-2">28 Giugno 2025</span>
         <h1 class="text-5xl font-semibold text-white lg:max-w-3xl" role="heading" aria-level="1">
           Notte Bianca<br />Cislago
@@ -21,7 +21,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </section>
 </template>
 
 <script setup lang="ts">

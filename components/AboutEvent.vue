@@ -13,7 +13,7 @@
       fino allo shopping serale nei negozi aperti straordinariamente.
     </p>
     <div class="w-full grid grid-cols-1 md:grid-cols-2 gap-4">
-      <div class="bg-white rounded-xl overflow-hidden shadow-md">
+      <div class="bg-white rounded-xl overflow-hidden shadow-md" role="region">
         <div class="h-[453px] p-5 bg-gray-900 flex flex-col justify-center items-center text-center">
           <span class="text-base font-semibold text-white mb-4" role="heading" aria-level="3">Eventi</span>
           <strong class="text-2xl font-semibold text-white mb-2" role="presentation">Spettacoli per tutti!</strong>
@@ -26,7 +26,7 @@
           </button>
         </div>
       </div>
-      <div class="bg-white rounded-xl overflow-hidden shadow-md">
+      <div class="bg-white rounded-xl overflow-hidden shadow-md" role="region">
         <div class="h-[453px] p-5 bg-gray-900 flex flex-col justify-center items-center text-center">
           <span class="text-base font-semibold text-white mb-4" role="heading" aria-level="3">Acquisti</span>
           <strong class="text-2xl font-semibold text-white mb-2" role="presentation">Shopping by Night!</strong>
@@ -39,7 +39,7 @@
           </button>
         </div>
       </div>
-      <div class="md:col-span-2 bg-white rounded-xl overflow-hidden shadow-md">
+      <div class="md:col-span-2 bg-white rounded-xl overflow-hidden shadow-md" role="region">
         <div class="h-[453px] p-5 bg-gray-900 flex flex-col justify-center items-center text-center">
           <span class="text-base font-semibold text-white mb-4" role="heading" aria-level="3">Food & Beverage</span>
           <strong class="text-2xl font-semibold text-white mb-2" role="presentation">Sapori sotto le stelle!</strong>
