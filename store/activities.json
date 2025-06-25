@@ -199,7 +199,7 @@
       "website": "https://www.mondobrick.it",
       "email": "info@mondobrick.it",
       "logo_image": "mondobrick",
-      "event_description": "",
+      "event_description": "Divertimento assicurato tra torri, case e invenzioni sorprendenti con i mattoncini LEGO!",
       "isFood": false,
       "menu": null,
       "coordinates": {
@@ -215,12 +215,12 @@
     "website": null,
     "email": null,
     "logo_image": "marcolin",
-    "event_description": "partecipiamo con vendita di pizze e focacce al trancio, panini imbottiti con salumi e somministrazione di bevande",
+    "event_description": "Partecipiamo con vendita di pizze e focacce al trancio, panini imbottiti con salumi e somministrazione di bevande",
     "isFood": true,
     "menu": null,
     "coordinates": {
-      "latitude": "45.659264",
-      "longitude": "8.969451"
+      "latitude": "45.659600",
+      "longitude": "8.971155"
     }
     },
     {
@@ -235,8 +235,8 @@
       "isFood": true,
       "menu": null,
       "coordinates": {
-        "latitude": "45.659264",
-        "longitude": "8.969451"
+        "latitude": "45.659544",
+        "longitude": "8.972041"
       }
     },
     {
@@ -251,8 +251,8 @@
       "isFood": true,
       "menu": null,
       "coordinates": {
-        "latitude": "45.659264",
-        "longitude": "8.969451"
+        "latitude": "45.659702",
+        "longitude": "8.971377"
       }
     },
     {
@@ -267,8 +267,8 @@
       "isFood": false,
       "menu": null,
       "coordinates": {
-        "latitude": "45.659264",
-        "longitude": "8.969451"
+        "latitude": "45.659702",
+        "longitude": "8.971377"
       }
     }
   ]
