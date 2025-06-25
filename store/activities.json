@@ -207,16 +207,64 @@
         "longitude": "8.9727778"
       }
     },
+  {
+    "id": "panificio-marcolin",
+    "activity_name": "Panificio Marcolin",
+    "address": "Piazza E.Toti - Cislago",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "logo_image": "marcolin",
+    "event_description": "partecipiamo con vendita di pizze e focacce al trancio, panini imbottiti con salumi e somministrazione di bevande",
+    "isFood": true,
+    "menu": null,
+    "coordinates": {
+      "latitude": "45.659264",
+      "longitude": "8.969451"
+    }
+    },
     {
-      "id": "panificio-marcolin",
-      "activity_name": "Panificio Marcolin",
-      "address": " - Cislago",
+      "id": "dolci-emozioni",
+      "activity_name": "Dolci Emozioni",
+      "address": "Viale IV Novembre, 43 - Cislago",
       "phone": null,
-      "website": null,
+      "website": "https://www.dolciemozionimoda.com",
       "email": null,
-      "logo_image": "marcolin",
-      "event_description": "partecipiamo con vendita di pizze e focacce al trancio, panini imbottiti con salumi e somministrazione di bevande",
+      "logo_image": "dolci-emozioni",
+      "event_description": "Sfilata ore 22,30 viale Iv novembre. Bimbi e moda mare Uomo Donna",
       "isFood": true,
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.659264",
+        "longitude": "8.969451"
+      }
+    },
+    {
+      "id": "cri-saronno",
+      "activity_name": "Croce Rossa Italiana - Comitato di Saronno",
+      "address": "Piazza E. Toti - Cislago",
+      "phone": null,
+      "website": "https://www.crisaronno.it",
+      "email": null,
+      "logo_image": "cri-saronno",
+      "event_description": "in collaborazione con Mantegazza Automotive, si svolgerà una risottata benefica a favore delle CRI.",
+      "isFood": true,
+      "menu": null,
+      "coordinates": {
+        "latitude": "45.659264",
+        "longitude": "8.969451"
+      }
+    },
+    {
+      "id": "mantegazza",
+      "activity_name": "Mantegazza Automotive",
+      "address": "Piazza E. Toti - Cislago",
+      "phone": null,
+      "website": "https://www.mantegazzasrl.net",
+      "email": null,
+      "logo_image": "mantegazza",
+      "event_description": "in collaborazione con CRI Truccabimbi e Palloncini per i più piccoli e grande evento musicale (DJ Set)",
+      "isFood": false,
       "menu": null,
       "coordinates": {
         "latitude": "45.659264",

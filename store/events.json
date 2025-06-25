@@ -10,7 +10,7 @@
   {
     "id": "dj-set-cri",
     "title": "DJ Set & Musica Live",
-    "description": "Una serata di musica coinvolgente con Mantegazza e la CRI di Saronno: ritmo e divertimento assicurati.",
+    "description": "CRI di Saronno con Mantegazza Automotive, si svolgerà una risottata benefica a favore delle CRI, Truccabimbi e Palloncini per i più piccoli e grande evento musicale (DJ Set)",
     "location": "Piazza E. Toti",
     "time": "21:30 - 23:30",
     "image": "/img/events/concerto.png"
@@ -81,7 +81,7 @@
   },
   {
     "id": "magia-bar-emilio",
-    "title": "Spettacolo di Magia da Bar Emilio",
+    "title": "Spettacolo di Magia al Bar Emilio",
     "description": "Ridi, stupisciti e sogna con la magia comica e i palloncini del Cappellaio Matto!",
     "location": "Viale IV Novembre",
     "time": "20:00 - 21:00",
@@ -92,7 +92,7 @@
     "title": "DJ Set & Musica Live al PEPS",
     "description": "Vieni a a ballare con noi. Scatenati sotto le stelle con musica live e DJ set travolgente!",
     "location": "Piazza E. Toti",
-    "time": "21:30 - 23:30",
+    "time": "21:30 - 01:00",
     "image": "/img/events/djset.png"
   },
   {
