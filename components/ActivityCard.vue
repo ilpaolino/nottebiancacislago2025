@@ -18,7 +18,7 @@
           <span class="font-semibold">{{ location }}</span>
           <p class="text-sm text-gray-700">{{ time }}</p>
         </div>
-        <a class="ml-auto uppercase text-sm text-indigo-700 text-center" target="_blank" :href="`https://www.google.com/maps/dir//${coordinates.latitude},${coordinates.longitude}/@${coordinates.latitude},${coordinates.longitude},172m/`">
+        <a class="ml-auto uppercase text-sm text-indigo-800 text-center" target="_blank" :href="`https://www.google.com/maps/dir//${coordinates.latitude},${coordinates.longitude}/@${coordinates.latitude},${coordinates.longitude},172m/`">
           APRI<br>MAPPA
         </a>
       </div>
