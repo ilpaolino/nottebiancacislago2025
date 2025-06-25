@@ -1,11 +1,11 @@
 <template>
   <section class="container mx-auto flex flex-col items-center px-4 py-10" id="about-event">
-    <span class="text-base font-semibold text-orange-700 mb-2" role="presentation">Vieni a vivere con noi l’inizio dell’estate...</span>
+    <span class="text-base font-semibold text-indigo-800 mb-2" role="presentation">Vieni a vivere con noi l’inizio dell’estate...</span>
     <strong class="text-3xl font-semibold text-blue-gray-900 text-center mb-3" role="heading" aria-level="2">La nostra Notte Bianca</strong>
-    <span class="text-base font-semibold text-orange-700 text-center mb-8" role="presentation">
+    <span class="text-base font-semibold text-indigo-800 text-center mb-8" role="presentation">
       ...fra luci, colori e tanta voglia di divertirsi!
     </span>
-    <p class="text-xl text-gray-500 text-center lg:max-w-4xl mb-8">
+    <p class="text-xl text-gray-600 text-center lg:max-w-4xl mb-8">
       Organizzata dai commercianti di Cislago,
       la Notte Bianca trasforma le vie del centro in un grande palcoscenico a cielo aperto.
       Ogni zona del paese ospiterà spettacoli unici e punti di interesse:<br />
