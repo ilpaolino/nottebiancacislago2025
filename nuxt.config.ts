@@ -15,7 +15,7 @@ export default defineNuxtConfig({
       htmlAttrs: {
         lang: 'it',
       },
-      title: 'Notte Bianca Cisalgo 2025',
+      title: 'Notte Bianca Cislago 2025',
       charset: 'utf-8',
       meta: [],
       link: [],
