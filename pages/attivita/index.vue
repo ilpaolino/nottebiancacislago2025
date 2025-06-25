@@ -8,7 +8,7 @@
         <div v-for="i in 6" :key="i" class="animate-pulse rounded-2xl bg-white/50 p-6 h-92"></div>
       </div>
 
-      <div v-else class="grid gap-10 lg:grid-cols-3">
+      <div v-else class="grid gap-10 lg:grid-cols-3" role="list">
         <ActivityCard
             v-for="activity in activities"
             :key="activity.id"
@@ -19,6 +19,7 @@
             :time="activity.phone"
             :coordinates="activity.coordinates"
             :website="activity.website"
+            role="listitem"
         />
       </div>
     </div>
