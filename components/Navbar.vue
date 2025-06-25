@@ -13,6 +13,11 @@
           </NuxtLink>
         </li>
         <li>
+          <NuxtLink to="/attivita/food" class="flex items-center gap-2 font-medium">
+            Food
+          </NuxtLink>
+        </li>
+        <li>
           <NuxtLink to="/eventi" class="flex items-center gap-2 font-medium">
             Eventi
           </NuxtLink>
