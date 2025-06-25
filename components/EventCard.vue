@@ -3,12 +3,12 @@
     <img :src="image" :alt="title" class="w-full h-48 object-cover">
     <div class="p-6">
       <h3 class="text-2xl font-semibold mb-2">{{ title }}</h3>
-      <p class="text-gray-500 mb-4">{{ description }}</p>
+      <p class="text-gray-700 mb-4">{{ description }}</p>
       <div class="flex items-center gap-4">
         <img src="/img/icons/tour-pin-tear.svg" alt="location" class="w-12 h-12">
         <div>
           <span class="font-semibold">{{ location }}</span>
-          <p class="text-sm text-gray-500">{{ time }}</p>
+          <p class="text-sm text-gray-700">{{ time }}</p>
         </div>
       </div>
     </div>
