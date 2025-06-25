@@ -18,6 +18,7 @@
             :location="activity.address"
             :time="activity.phone"
             :coordinates="activity.coordinates"
+            :website="activity.website"
         />
       </div>
     </div>

@@ -1,6 +1,9 @@
 <template>
   <div class="bg-gray-200 rounded-2xl overflow-hidden shadow-md">
-    <img :src="`/img/activities/${image}.png`" :alt="`Logo ${title}`" class="w-full h-48 object-contain bg-white">
+    <a v-if="website" :href="website" target="_blank">
+      <img :src="`/img/activities/${image}.png`" :alt="`Logo ${title}`" class="w-full h-48 object-contain bg-white">
+    </a>
+    <img v-else :src="`/img/activities/${image}.png`" :alt="`Logo ${title}`" class="w-full h-48 object-contain bg-white">
     <div class="p-6">
       <h3 class="text-2xl font-semibold mb-2">{{ title }}</h3>
       <p class="text-gray-500 mb-4" v-if="!menu">{{ description }}</p>
@@ -31,6 +34,7 @@ const props = defineProps({
   location: String,
   time: String,
   menu: String,
+  website: String,
   coordinates: {
     type: Object as PropType<{
       latitude: string;
@@ -46,4 +50,5 @@ const location = toRef(props, 'location');
 const time = toRef(props, 'time');
 const coordinates = toRef(props, 'coordinates');
 const menu = toRef(props, 'menu');
+const website = toRef(props, 'website');
 </script>
