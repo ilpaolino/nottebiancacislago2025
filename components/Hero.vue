@@ -4,7 +4,7 @@
     <div class="grid min-h-screen px-8">
       <div class="container relative z-10 my-auto mx-auto grid place-items-center text-center">
         <span class="text-3xl font-semibold text-white mb-2">28 Giugno 2025</span>
-        <h1 class="text-5xl font-semibold text-white lg:max-w-3xl">
+        <h1 class="text-5xl font-semibold text-white lg:max-w-3xl" role="heading" aria-level="1">
           Notte Bianca<br />Cislago
         </h1>
         <p class="text-xl text-white mt-1 mb-12 lg:max-w-2xl">
